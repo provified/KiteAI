@@ -1,0 +1,2 @@
+# KiteAI
+KiteAI autofarm bot
