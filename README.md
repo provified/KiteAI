@@ -17,7 +17,7 @@
 
 # Installation+Run🕸
 ```shell
-git clone https://github.com/turyems/KiteAi
+git clone https://github.com/provified/KiteAi
 cd KiteAi
 run.bat
 ```
@@ -25,7 +25,7 @@ run.bat
 **OR**
 
 ```shell
-git clone https://github.com/turyems/KiteAi
+git clone https://github.com/provified/KiteAi
 cd KiteAi
 pip install -r requirements.txt
 python bot.py
